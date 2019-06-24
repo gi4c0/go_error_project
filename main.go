@@ -1,6 +1,6 @@
 package main
 
-import "github.com/gi4c0/go_error_project/testpackage"
+import "github.com/<your_user_name>/go_error_project/testpackage"
 
 func main() {
 	testpackage.HelloWorld()
